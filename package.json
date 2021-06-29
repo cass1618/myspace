@@ -1,5 +1,6 @@
 {
   "name": "myspace",
+  "homepage":"http://cassandracopp.com/myspace",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
