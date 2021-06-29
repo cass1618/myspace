@@ -1,18 +1,20 @@
-import logo from './logo.svg';
+//import logo from './../logo.svg';
 import './App.css';
 import React from "react";
-import { info } from 'node-sass';
+import Header from "./Header";
+import Photo from "./Photo";
+//import { info } from 'node-sass';
 
 function App() {
   return (
     <React.Fragment>
       <Header/>
       <Photo/>
-      <Buttons/>
+      {/* <Buttons/>
       <Info/>
       <Music/>
       <Friends/>
-      <Posts/>
+      <Posts/> */}
     </React.Fragment>
   );
 }
